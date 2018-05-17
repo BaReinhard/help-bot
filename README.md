@@ -12,5 +12,5 @@ npm install
 **Deploy New Version**
 
 ```
-npm run deploy  #must be inside director
+npm run deploy  #must be inside directory
 ```
